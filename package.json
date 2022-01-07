@@ -1,0 +1,19 @@
+{
+  "name": "storybook_tp1_julbern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julbern/storybook_tp1_julbern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julbern/storybook_tp1_julbern/issues"
+  },
+  "homepage": "https://github.com/julbern/storybook_tp1_julbern#readme"
+}
