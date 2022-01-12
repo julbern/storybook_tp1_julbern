@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/julbern/storybook_tp1_julbern#readme",
   "dependencies": {
-    "@storybook/design-system": "^7.2.0"
+    "@storybook/addons": "^6.4.9",
+    "@storybook/design-system": "^7.2.0",
+    "@storybook/theming": "^6.4.9"
   },
   "devDependencies": {
     "@babel/core": "^7.16.7",
